@@ -1,5 +1,8 @@
-# BlackJack
-![Banner](https://user-images.githubusercontent.com/90010134/159140333-d8605fe8-6d27-4fd9-b588-8651d89224f4.png)
+# BlackJack Java game
+
+ This project is a simplified version of the popular card game Blackjack (aka : '21') without bets.
+ 
+<br>
 
 ## BlackJAck is a  project developed using Java and Gui , by students:
 1. Nour Adel
@@ -8,9 +11,6 @@
 
 <br>
 
-# BlackJack Java game
-
- This project is a simplified version of the popular card game Blackjack (aka : '21') without bets.
 
 ## How to play
  At the beginning of the game, 3 players and a dealer are dealt 2 cards each.  <br>
