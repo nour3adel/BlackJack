@@ -36,7 +36,7 @@ consideration what the dealer’s score could be.
 - Getting each player's name <br> <br> ![Names input](https://github.com/nour3adel/BlackJack/blob/main/screenshots/names.jpg?raw=true "Names input") <br> <br> 
 - Game begins <br> <br> ![Start](https://github.com/nour3adel/BlackJack/blob/main/screenshots/2.jpg "Start") <br> <br> 
 - Drawing a new card <br> <br> ![Card draw](https://github.com/nour3adel/BlackJack/blob/main/screenshots/3.jpg "Card draw") <br> <br> 
-- Game over <br> <br> ![GameOver](https://github.com/Mohamed-Samy26/BlackJack-Java-game/blob/main/screenshots/4.jpg "GameOver")
+- Game over <br> <br> ![GameOver](https://github.com/nour3adel/BlackJack/blob/main/screenshots/4.jpg "GameOver")
 
 
 
